@@ -3,4 +3,6 @@ Just a new Repository
 
 Updated JS & CSS
 
-New commit
+New commit update
+
+#### Section 2
